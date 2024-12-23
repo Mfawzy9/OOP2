@@ -1,0 +1,14 @@
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\obj\Debug\net8.0\OOP02.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\obj\Debug\net8.0\OOP02.AssemblyInfoInputs.cache
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\obj\Debug\net8.0\OOP02.AssemblyInfo.cs
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\obj\Debug\net8.0\OOP02.csproj.CoreCompileInputs.cache
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\bin\Debug\net8.0\OOP02.exe
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\bin\Debug\net8.0\OOP02.deps.json
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\bin\Debug\net8.0\OOP02.runtimeconfig.json
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\bin\Debug\net8.0\OOP02.dll
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\bin\Debug\net8.0\OOP02.pdb
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\obj\Debug\net8.0\OOP02.dll
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\obj\Debug\net8.0\refint\OOP02.dll
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\obj\Debug\net8.0\OOP02.pdb
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\obj\Debug\net8.0\OOP02.genruntimeconfig.cache
+D:\dev\route\assignments\back\C#\OOP\assignment2 oop\OOP02\obj\Debug\net8.0\ref\OOP02.dll
